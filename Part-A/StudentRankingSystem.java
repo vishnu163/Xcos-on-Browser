@@ -1,6 +1,8 @@
 /*
 	Name: Vishnu H Nair
-	
+	Resources: https://tutorialspoint.com
+	           https://docs.oracle.com/javase/7/docs/api/java/lang/Comparable.html
+	           https://www.javapractices.com/topic/TopicAction.do?Id=10
 */
 import java.util.Scanner;
 import java.util.Comparator;
